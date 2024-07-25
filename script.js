@@ -29,4 +29,8 @@ prev_btn.addEventListener('click', (e)=>{
             }
             changeSlide();
         })
-      
+    
+
+
+
+
